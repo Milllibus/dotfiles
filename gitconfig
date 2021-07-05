@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leclercq.adrien96@gmail.com
+	name = adrien leclercq
